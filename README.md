@@ -9,6 +9,7 @@ This should work with all 32u4 and SAMD based boards (Leonardo, Esplora, Zero, D
 We use a [WiiChuck adaptor](https://www.dfrobot.com/index.php?route=product/product&filter_name=dfr0062&product_id=91) and this is how we connect it to the board :
 
 | WiiChuck connector | Arduino pin |
+| --- | --- |
 | - | GND|
 | + | 3V3 |
 | d (SDA) | D2 |
